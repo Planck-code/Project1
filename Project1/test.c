@@ -10,6 +10,7 @@ int main() {
 	printf("first_x = %d\n", x);
 	test(&x);
 	printf("out_x = %d\n",x);
-
+	printf("demo");
+	
 	return 0;
 }
